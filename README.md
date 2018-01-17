@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/cars_noncars.png "Dataset"
-[image2]: ./examples/car_hog.png "Image HOG of a Car Image"
-[image3]: ./examples/noncar_hog.png "Image HOG of a Noncar Image"
-[image4]: ./examples/sliding_window.png "Sliding Window Search"
-[image5]: ./examples/multiple_sliding_window.png "Multiple Sliding Window Search"
-[image6]: ./examples/heatmap.png "Heatmap Image"
-[image7]: ./examples/heatmap_thresholded.png "Thresholded Heatmap Image"
-[image8]: ./examples/advanced_sliding_window.png "Advanced Sliding Windows Search"
-[image9]: ./examples/test_boxes.png "Test Image Results"
+[image1]: examples/cars_noncars.png "Dataset"
+[image2]: examples/car_hog.png "Image HOG of a Car Image"
+[image3]: examples/noncar_hog.png "Image HOG of a Noncar Image"
+[image4]: examples/sliding_window.png "Sliding Window Search"
+[image5]: examples/multiple_sliding_window.png "Multiple Sliding Window Search"
+[image6]: examples/heatmap.png "Heatmap Image"
+[image7]: examples/heatmap_thresholded.png "Thresholded Heatmap Image"
+[image8]: examples/advanced_sliding_window.png "Advanced Sliding Windows Search"
+[image9]: examples/test_boxes.png "Test Image Results"
 
 First, we need to see the dataset which we will use to train the classifier
 
