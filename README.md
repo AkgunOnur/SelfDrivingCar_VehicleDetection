@@ -70,6 +70,12 @@ The results for test images from the video stream are below
 
 ![alt text][image9]
 
+The final implementation performed very well, identifying the near-field vehicles in each of the images with no false positives.
+
+The first implementation did not perform as well because of false positives The original classifier used HOG features from the YCrCb color space did not go very well. Converting color space into YUV made a serious contribution for detecting cars correctly and the accuracy of the test data is 98.2% 
+
+Other optimization techniques included changes to window sizing and overlap as described above, and lowering the heatmap threshold to improve accuracy of the detection (higher threshold values tended to underestimate the size of the vehicle).
+
 ## Acknowledgment
 
 Jeremy-shannon's work helped me a lot during the process of tuning HOG extraction and multiple window sliding search functions.
