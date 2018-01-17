@@ -69,3 +69,7 @@ The final result of the algorithm is like below:
 The results for test images from the video stream are below
 
 ![alt text][image9]
+
+## Acknowledgment
+
+Jeremy-shannon's work helped me a lot during the process of tuning HOG extraction and multiple window sliding search functions.
