@@ -22,6 +22,9 @@ The goals / steps of this project are the following:
 [image7]: examples/heatmap_thresholded.png "Thresholded Heatmap Image"
 [image8]: examples/advanced_sliding_window.png "Advanced Sliding Windows Search"
 [image9]: examples/test_boxes.png "Test Image Results"
+[image10]: examples/sample.gif "Sample"
+
+![alt text][image10]
 
 First, we need to see the dataset which we will use to train the classifier
 
